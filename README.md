@@ -12,6 +12,10 @@ The application has been created as a part of the Čínská dáma bachelor thesi
 This repository includes the entire practical part of the thesis, the theoretical part will be linked here as soon as it's made public.
 
 Some pictures of the application:
-Main menu ![Main menu](./Images/menu.png)
-Selection of the parameters of the game ![Parameters](./Images/parameters.png)
-Game ![Game](./Images/game.png)
+
+Main menu
+![Main menu](./Images/menu.png)
+Selection of the parameters of the game 
+![Parameters](./Images/parameters.png)
+Game 
+![Game](./Images/game.png)
