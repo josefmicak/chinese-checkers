@@ -1,0 +1,50 @@
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.csproj.AssemblyReference.cache
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Forms.MenuForm.resources
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.csproj.GenerateResource.cache
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.AssemblyInfoInputs.cache
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.AssemblyInfo.cs
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.csproj.CoreCompileInputs.cache
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\bin\Debug\net5.0-windows\ChineseCheckers.exe
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\bin\Debug\net5.0-windows\ChineseCheckers.deps.json
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\bin\Debug\net5.0-windows\ChineseCheckers.runtimeconfig.json
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\bin\Debug\net5.0-windows\ChineseCheckers.runtimeconfig.dev.json
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\bin\Debug\net5.0-windows\ChineseCheckers.dll
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\bin\Debug\net5.0-windows\ref\ChineseCheckers.dll
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\bin\Debug\net5.0-windows\ChineseCheckers.pdb
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.dll
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ref\ChineseCheckers.dll
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.pdb
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.genruntimeconfig.cache
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Forms.GameForm.resources
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Forms.InformationForm.resources
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Forms.StatisticsForm.resources
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Properties.Resources.resources
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Forms.GameParametersForm.resources
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Forms.SimulatorParametersForm.resources
+D:\Users\Visual Studio projects\ChineseCheckers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Forms.DoubleBufferedPanel.resources
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\bin\Debug\net5.0-windows\ChineseCheckers.exe
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\bin\Debug\net5.0-windows\ChineseCheckers.deps.json
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\bin\Debug\net5.0-windows\ChineseCheckers.runtimeconfig.json
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\bin\Debug\net5.0-windows\ChineseCheckers.runtimeconfig.dev.json
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\bin\Debug\net5.0-windows\ChineseCheckers.dll
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\bin\Debug\net5.0-windows\ref\ChineseCheckers.dll
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\bin\Debug\net5.0-windows\ChineseCheckers.pdb
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.csproj.AssemblyReference.cache
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Forms.DoubleBufferedPanel.resources
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Forms.GameForm.resources
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Forms.GameParametersForm.resources
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Forms.InformationForm.resources
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Forms.MenuForm.resources
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Forms.SimulatorParametersForm.resources
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Forms.StatisticsForm.resources
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.Properties.Resources.resources
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.csproj.GenerateResource.cache
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.AssemblyInfoInputs.cache
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.AssemblyInfo.cs
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.csproj.CoreCompileInputs.cache
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.dll
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ref\ChineseCheckers.dll
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.pdb
+D:\Users\orosp\Documents\GitHub\chinese-checkers\ChineseCheckers\obj\Debug\net5.0-windows\ChineseCheckers.genruntimeconfig.cache

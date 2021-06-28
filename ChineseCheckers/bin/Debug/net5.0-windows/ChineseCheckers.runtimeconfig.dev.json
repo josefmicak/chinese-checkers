@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\orosp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\orosp\\.nuget\\packages"
+    ]
+  }
+}
